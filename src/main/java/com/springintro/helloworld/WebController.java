@@ -12,4 +12,5 @@ public class WebController {
     public String print() {
         return "Hello from BridgeLabz";
     }
+
 }
